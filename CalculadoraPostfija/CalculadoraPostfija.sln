@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34729.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraPostfija", "CalculadoraPostfija\CalculadoraPostfija.csproj", "{B46064DD-B4C5-4088-B4F3-1D66BCA51249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B46064DD-B4C5-4088-B4F3-1D66BCA51249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46064DD-B4C5-4088-B4F3-1D66BCA51249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46064DD-B4C5-4088-B4F3-1D66BCA51249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46064DD-B4C5-4088-B4F3-1D66BCA51249}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D33A19CC-57E9-46A9-8770-5F3673BDBC15}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\Universidad\7 SEPTIMO SEMESTRE\INF 317\EXAMEN_1\pregunta 11\CalculadoraPostfija\CalculadoraPostfija\obj\Debug\CalculadoraPostfija.csprojAssemblyReference.cache
+D:\Universidad\7 SEPTIMO SEMESTRE\INF 317\EXAMEN_1\pregunta 11\CalculadoraPostfija\CalculadoraPostfija\obj\Debug\CalculadoraPostfija.Form1.resources
+D:\Universidad\7 SEPTIMO SEMESTRE\INF 317\EXAMEN_1\pregunta 11\CalculadoraPostfija\CalculadoraPostfija\obj\Debug\CalculadoraPostfija.Properties.Resources.resources
+D:\Universidad\7 SEPTIMO SEMESTRE\INF 317\EXAMEN_1\pregunta 11\CalculadoraPostfija\CalculadoraPostfija\obj\Debug\CalculadoraPostfija.csproj.GenerateResource.cache
+D:\Universidad\7 SEPTIMO SEMESTRE\INF 317\EXAMEN_1\pregunta 11\CalculadoraPostfija\CalculadoraPostfija\obj\Debug\CalculadoraPostfija.csproj.CoreCompileInputs.cache
+D:\Universidad\7 SEPTIMO SEMESTRE\INF 317\EXAMEN_1\pregunta 11\CalculadoraPostfija\CalculadoraPostfija\bin\Debug\CalculadoraPostfija.exe.config
+D:\Universidad\7 SEPTIMO SEMESTRE\INF 317\EXAMEN_1\pregunta 11\CalculadoraPostfija\CalculadoraPostfija\bin\Debug\CalculadoraPostfija.exe
+D:\Universidad\7 SEPTIMO SEMESTRE\INF 317\EXAMEN_1\pregunta 11\CalculadoraPostfija\CalculadoraPostfija\bin\Debug\CalculadoraPostfija.pdb
+D:\Universidad\7 SEPTIMO SEMESTRE\INF 317\EXAMEN_1\pregunta 11\CalculadoraPostfija\CalculadoraPostfija\obj\Debug\CalculadoraPostfija.exe
+D:\Universidad\7 SEPTIMO SEMESTRE\INF 317\EXAMEN_1\pregunta 11\CalculadoraPostfija\CalculadoraPostfija\obj\Debug\CalculadoraPostfija.pdb
